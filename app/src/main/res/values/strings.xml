@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">MyNewsApp</string>
+    <string name="app_name">My News App</string>
+    <string name="news_detail">News Detail</string>
+
+    <!-- General Message -->
+    <string name="general_error">Unknown Error</string>
+    <string name="load_data">Loading items..</string>
+    <string name="no_internet">No Internet Access</string>
+
+    <!-- Menu -->
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+
+    <!-- Button Name -->
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="read_more">Read More</string>
 </resources>
