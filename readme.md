@@ -4,6 +4,7 @@ MOBI6021 Mobile Programming <br />
 2019-2020 Even Terms <br />
 Final Exam mini project
 
+Note: please use your own [NewsAPI](https://newsapi.org/) key as defined [here](app/src/main/java/id/my/avmmartin/mynewsapp/utils/Constants.java)
 
 ## Creative Thinking
 
